@@ -13,6 +13,9 @@ ABC Tech is a mid-sized IT-enabled organization handling approximately 22,000–
 **Key Machine Learning Applications**:
 
 Priority Prediction – Predict P1/P2 incidents for proactive action
+
 Incident Forecasting – Forecast future ticket volumes for resource planning
+
 Auto-Tagging – Predict ticket priority and responsible department
+
 RFC Prediction – Identify potential change requirements and asset-related issues
